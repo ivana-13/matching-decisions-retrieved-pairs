@@ -1,0 +1,38 @@
+\section{Results}
+\label{sec:results}
+
+\paragraph{ITM accuracy orders the decisions but hides how their thresholds behave (RQ1).}
+\cref{tab:decisions} compares the seven decisions on the benchmark and on the human-judged pairs. The six thresholded decisions have the same order by ITM accuracy as by the AUC of their score over the judged pairs (Spearman's $\rho$ 1.00), so the accuracy tells which decision separates correct from incorrect retrieved pairs better, but not by how much: both BLIP-2 and FLAVA have an ITM accuracy around 63\%, yet the BLIP-2 head separates the retrieved pairs with a clearly higher pool AUC than the FLAVA head. Inside a top-10 list the candidates already come in the original order, and a decision can improve the list only if its score separates the correct candidates from the incorrect ones better than this order does. Six decisions do; the FLAVA head does not: its AUC inside the lists is below the 0.62 of the original order. A likely reason is training: the BLIP and BLIP-2 heads learn from hard negatives, the most similar pairs of a batch under their own encoders~\cite{li2022blip,li2023blip2}, much like retrieved candidates, whereas the FLAVA head learns from unmatched pairs not selected for similarity~\cite{singh2022flava}. The BLIP-2 head is strict: it rejects most pairs, the correct ones included, on the benchmark and even more so on the retrieved pairs, and the BLIP head leans the same way. The \qemb{} decision is lenient: it accepts almost every benchmark positive and about half of the incorrect retrieved pairs. Only the prompt and the re-ranker accept and reject in balance. Finally, the retrieved pairs are harder than the handcrafted ones: every decision rejects fewer of the incorrect retrieved pairs than of the benchmark negatives, by 5 to 26 points of TNR.
+
+\begin{table}[t]
+\centering
+\caption{The seven decisions on \svo{}: ITM accuracy, TPR and TNR (\%) on the benchmark ($\dagger$: pairwise accuracy, no threshold); AUC of the score over the judged pairs and inside the top-10 lists (last row: the original order); TPR and TNR (\%) on the judged pairs (caption / image queries); share of the judged-incorrect pairs the default decision accepts, by the wrong role.}
+\label{tab:decisions}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\resizebox{\linewidth}{!}{\input{tables/tab_match_decisions}}
+\end{table}
+
+\paragraph{Decisions that separate the lists better than their original order improve them (RQ2).}
+\cref{fig:rerank} shows how much each decision changes the judged Success@1 of each list, and the Score columns of \cref{tab:rerank} are the means of these changes over the five lists, the last row of the figure. Every decision but the FLAVA head improves the lists, in the order of their ITM accuracy (Spearman's $\rho$ 0.94): the three Qwen-based decisions by 11 points or more, the BLIP head by 9, the BLIP-2 head by 6 or more, and Grounding CLIP by 4 or more. The FLAVA head lowers it by 5 and 7 points. The two heads with the same accuracy thus move the lists in opposite directions. Neither change alone is significant in both directions after the correction, but their difference of 12 to 13 points is ($p<0.001$), and it is found in 89\% of random subsets of 50 queries. The accuracy therefore gives the order of the decisions but not the distance between them: one point of accuracy separates a gain from a loss, while the 14 points between the BLIP and BLIP-2 heads buy 1 to 3. The gains are largest on the weakest lists; no decision significantly improves the strongest list. Judged MRR and nDCG@10 move the same way.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{fig_rerank}
+\caption{Change in the judged Success@1 (points) when the top-10 list of an embedding model (row; number: its original Success@1) is re-ordered by the score of a matching decision (column). Last row: mean over the five lists, the Score columns of \cref{tab:rerank}. Bold: significant after Holm correction ($p<0.05$).}
+\label{fig:rerank}
+\end{figure}
+
+\begin{table}[t]
+\centering
+\caption{Mean change in the judged Success@1 over the five lists (points): re-ordering by the score, the default decision as a filter, the filter with a tuned threshold, the score interpolated with the embedding similarity (+Sim.), and the score re-ordering under the strict Success@1 (Strict). Holm-corrected randomisation tests against the original order: $^{**}$ $p<0.01$, $^{*}$ $p<0.05$.}
+\label{tab:rerank}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\resizebox{\linewidth}{!}{\input{tables/tab_match_rerank}}
+\end{table}
+
+\paragraph{As a filter, or under the strict Success@1, most of the effect disappears.}
+As a filter at its default threshold (the Filter columns of \cref{tab:rerank}), every improving decision keeps only part of its gain; the lenient \qemb{} decision keeps about a third, because its filter lets about half of the incorrect candidates through. Tuning the threshold on the judged lists of the other queries helps only the \qemb{} decision, and the tuned filters of the three Qwen-based decisions still stay below their scores. Interpolating the score with the embedding similarity changes the improving decisions by less than 3 points and removes the loss of the FLAVA head. The strict Success@1, which counts only the benchmark positives as correct, shows none of this: they are 4\% of the judged-correct candidates, so the same re-orderings move it by at most 8 points in either direction, and none of these changes is significant but one loss of the FLAVA head. Each single annotator of the triple-annotated lists gives the same picture as the majority vote.
+\paragraph{Verb errors pass most often (RQ3).}
+Five decisions accept verb errors more often than subject or object errors, by 2 to 10 points (\cref{tab:decisions}); the \qemb{} decision is the exception and accepts object errors most often.

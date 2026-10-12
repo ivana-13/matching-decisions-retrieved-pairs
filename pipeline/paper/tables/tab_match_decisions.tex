@@ -1,0 +1,17 @@
+\begin{tabular}{l ccc cc c cc ccc}
+\toprule
+& \multicolumn{3}{c}{Benchmark (\%)} & \multicolumn{2}{c}{Pool AUC} & List & \multicolumn{2}{c}{Pool (\%)} & \multicolumn{3}{c}{Accepted errors (\%)}\\
+\cmidrule(lr){2-4}\cmidrule(lr){5-6}\cmidrule(lr){8-9}\cmidrule(lr){10-12}
+Decision & Acc. & TPR & TNR & \ttoi{} & \itot{} & AUC & TPR & TNR & Subj. & Verb & Obj.\\
+\midrule
+BLIP head & 77.2 & 61 & 94 & 0.76 & 0.70 & 0.76 & 53/37 & 82/83 & 11 & 23 & 13 \\
+BLIP-2 head & 63.4 & 28 & 98 & 0.69 & 0.65 & 0.72 & 24/13 & 93/93 & 7 & 8 & 5 \\
+FLAVA head & 62.4 & 47 & 78 & 0.60 & 0.55 & 0.58 & 50/47 & 63/61 & 35 & 42 & 33 \\
+Qwen2.5-VL prompt & 86.8 & 81 & 93 & 0.88 & 0.88 & 0.87 & 75/75 & 83/83 & 12 & 20 & 14 \\
+\qemb{} yes/no & 84.2 & 94 & 75 & 0.82 & 0.83 & 0.82 & 90/93 & 58/49 & 44 & 43 & 50 \\
+Qwen3-VL-Reranker & 84.1 & 78 & 90 & 0.82 & 0.82 & 0.82 & 70/67 & 79/80 & 11 & 27 & 18 \\
+Grounding CLIP$^{\dagger}$ & 84.9 & -- & -- & 0.60 & 0.67 & 0.69 & -- & -- & -- & -- & -- \\
+\midrule
+Original order &  &  &  &  &  & 0.62 &  &  &  &  &  \\
+\bottomrule
+\end{tabular}

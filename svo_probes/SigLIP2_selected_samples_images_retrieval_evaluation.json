@@ -1,0 +1,3802 @@
+{
+    "A girl sits on a ball.": {
+        "SigLIP2 retrieved images": [
+            7789,
+            1318,
+            910,
+            1940,
+            2980,
+            6675,
+            221,
+            2904,
+            461,
+            5526
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            ""
+        ]
+    },
+    "This person carries another person.": {
+        "SigLIP2 retrieved images": [
+            1907,
+            8833,
+            3269,
+            2727,
+            13012,
+            9446,
+            13306,
+            10949,
+            9275,
+            895
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A man runs through the city.": {
+        "SigLIP2 retrieved images": [
+            4819,
+            6304,
+            7353,
+            6746,
+            9269,
+            3781,
+            11547,
+            10548,
+            2915,
+            1130
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "Boats, at a marina.": {
+        "SigLIP2 retrieved images": [
+            13613,
+            3076,
+            6566,
+            9421,
+            10605,
+            10604,
+            6567,
+            4179,
+            7424,
+            4480
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "The woman and her son walk along the trail.": {
+        "SigLIP2 retrieved images": [
+            3559,
+            1936,
+            2181,
+            3716,
+            2940,
+            9413,
+            668,
+            3084,
+            9341,
+            2931
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct"
+        ]
+    },
+    "The animals run in the meadow.": {
+        "SigLIP2 retrieved images": [
+            3848,
+            1859,
+            5469,
+            1524,
+            5799,
+            1191,
+            10158,
+            2030,
+            3350,
+            7076
+        ],
+        "human evaluation": [
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "Player run with ball": {
+        "SigLIP2 retrieved images": [
+            1631,
+            5525,
+            3824,
+            5480,
+            9843,
+            794,
+            5521,
+            11377,
+            7148,
+            9598
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "The man jumped across the mountain.": {
+        "SigLIP2 retrieved images": [
+            11748,
+            2641,
+            4964,
+            682,
+            7822,
+            9386,
+            6217,
+            705,
+            9582,
+            364
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "A woman is jumping in the sunset.": {
+        "SigLIP2 retrieved images": [
+            6633,
+            6706,
+            7822,
+            6169,
+            6187,
+            1890,
+            6547,
+            4768,
+            12083,
+            9139
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect"
+        ]
+    },
+    "A person looks ready for a show.": {
+        "SigLIP2 retrieved images": [
+            1422,
+            1906,
+            3238,
+            11443,
+            8828,
+            4223,
+            98,
+            6497,
+            8895,
+            7349
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect"
+        ]
+    },
+    "The person will sing into the microphone.": {
+        "SigLIP2 retrieved images": [
+            8226,
+            3468,
+            3115,
+            2595,
+            3246,
+            3413,
+            10770,
+            3256,
+            12834,
+            3677
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "The man is taking a walk in the park.": {
+        "SigLIP2 retrieved images": [
+            1292,
+            11723,
+            7390,
+            5755,
+            2299,
+            13595,
+            2857,
+            11784,
+            4143,
+            5427
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "A player celebrates with his teammates.": {
+        "SigLIP2 retrieved images": [
+            10509,
+            9837,
+            8773,
+            3411,
+            5765,
+            7945,
+            1125,
+            2899,
+            10018,
+            4116
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "A WORKER STANDS IN FRONT": {
+        "SigLIP2 retrieved images": [
+            3437,
+            3333,
+            7719,
+            9634,
+            8960,
+            7691,
+            6181,
+            7254,
+            5372,
+            11294
+        ],
+        "human evaluation": [
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ]
+    },
+    "A person jumping into water.": {
+        "SigLIP2 retrieved images": [
+            9149,
+            2777,
+            446,
+            681,
+            1409,
+            1447,
+            4784,
+            866,
+            3854,
+            7584
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "A girl is sitting on the field.": {
+        "SigLIP2 retrieved images": [
+            2315,
+            3018,
+            1690,
+            5314,
+            9851,
+            6580,
+            675,
+            2393,
+            1869,
+            931
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "man walking in the alley": {
+        "SigLIP2 retrieved images": [
+            3183,
+            7831,
+            13787,
+            9932,
+            2998,
+            3766,
+            7299,
+            8323,
+            366,
+            1292
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "A woman kayaking in a lake.": {
+        "SigLIP2 retrieved images": [
+            6024,
+            6138,
+            10523,
+            1862,
+            9174,
+            4752,
+            9119,
+            5890,
+            12471,
+            2672
+        ],
+        "human evaluation": [
+            "subject incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "subject incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "A girl is running on the street.": {
+        "SigLIP2 retrieved images": [
+            4654,
+            9777,
+            7725,
+            2422,
+            397,
+            10519,
+            10840,
+            4649,
+            79,
+            2169
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A couple kiss in a meadow.": {
+        "SigLIP2 retrieved images": [
+            7214,
+            5082,
+            3045,
+            6845,
+            4740,
+            4754,
+            13815,
+            10591,
+            12330,
+            5567
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "man cook in kitchen": {
+        "SigLIP2 retrieved images": [
+            5238,
+            5367,
+            4483,
+            12670,
+            12842,
+            1879,
+            12602,
+            7436,
+            475,
+            11880
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A puppy stands in the grass.": {
+        "SigLIP2 retrieved images": [
+            3003,
+            5401,
+            1637,
+            1620,
+            7580,
+            5048,
+            4638,
+            3606,
+            1704,
+            1988
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "A man walking in a forest.": {
+        "SigLIP2 retrieved images": [
+            366,
+            1948,
+            11473,
+            3390,
+            2826,
+            3722,
+            7676,
+            13456,
+            7120,
+            1724
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "The dressed up actors take a pose.": {
+        "SigLIP2 retrieved images": [
+            10802,
+            7833,
+            4434,
+            3930,
+            3335,
+            8993,
+            12565,
+            13269,
+            10145,
+            13195
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct"
+        ]
+    },
+    "A person jumps in front of a background.": {
+        "SigLIP2 retrieved images": [
+            13270,
+            6187,
+            6633,
+            10110,
+            12124,
+            7822,
+            12380,
+            6245,
+            6706,
+            9139
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "Players walking onto the pitch.": {
+        "SigLIP2 retrieved images": [
+            1973,
+            5705,
+            13407,
+            346,
+            3237,
+            10839,
+            11765,
+            10510,
+            8586,
+            4010
+        ],
+        "human evaluation": [
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "correct",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "correct",
+            "subject incorrect"
+        ]
+    },
+    "A man sits at a desk.": {
+        "SigLIP2 retrieved images": [
+            583,
+            3435,
+            7182,
+            3191,
+            831,
+            11681,
+            826,
+            3538,
+            174,
+            532
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "The person sit in the window opposite side": {
+        "SigLIP2 retrieved images": [
+            6497,
+            7492,
+            3729,
+            12767,
+            2081,
+            11848,
+            9471,
+            2706,
+            1610,
+            3344
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "A person working with a team": {
+        "SigLIP2 retrieved images": [
+            9769,
+            7585,
+            8251,
+            10537,
+            2666,
+            10299,
+            10995,
+            13443,
+            9080,
+            8960
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "A woman lies on a sofa.": {
+        "SigLIP2 retrieved images": [
+            12588,
+            13652,
+            13588,
+            2841,
+            13898,
+            1992,
+            13463,
+            5714,
+            10492,
+            14074
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect"
+        ]
+    },
+    "player score a goal": {
+        "SigLIP2 retrieved images": [
+            7582,
+            3427,
+            7524,
+            1348,
+            3153,
+            12845,
+            509,
+            9267,
+            6882,
+            13296
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A person sits on a rock.": {
+        "SigLIP2 retrieved images": [
+            13601,
+            9962,
+            57,
+            2151,
+            6553,
+            8607,
+            8437,
+            9676,
+            7417,
+            3615
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A woman sits on a branch above the sand.": {
+        "SigLIP2 retrieved images": [
+            4554,
+            1632,
+            5590,
+            3123,
+            7742,
+            6310,
+            7861,
+            2180,
+            2882,
+            11591
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "The girl sat on the stair.": {
+        "SigLIP2 retrieved images": [
+            9966,
+            9649,
+            10137,
+            4572,
+            12138,
+            5707,
+            143,
+            8188,
+            3337,
+            1585
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "A woman walks past a window in an airport.": {
+        "SigLIP2 retrieved images": [
+            8486,
+            13911,
+            98,
+            271,
+            5943,
+            5116,
+            9269,
+            6412,
+            1015,
+            5286
+        ],
+        "human evaluation": [
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A woman sitting in a terrace.": {
+        "SigLIP2 retrieved images": [
+            303,
+            4601,
+            6758,
+            3708,
+            891,
+            3337,
+            180,
+            12354,
+            2133,
+            2650
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "Two men are running up a trail.": {
+        "SigLIP2 retrieved images": [
+            1824,
+            1233,
+            1667,
+            774,
+            2311,
+            2585,
+            6605,
+            9168,
+            6288,
+            11743
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "correct"
+        ]
+    },
+    "A sculpture of a person walking": {
+        "SigLIP2 retrieved images": [
+            10247,
+            6746,
+            9932,
+            1737,
+            6745,
+            9910,
+            11547,
+            1408,
+            8734,
+            4546
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "object incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ]
+    },
+    "A girl sits against a tree.": {
+        "SigLIP2 retrieved images": [
+            8290,
+            8535,
+            323,
+            11300,
+            4710,
+            2767,
+            11344,
+            6310,
+            4167,
+            8
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "A woman sleeps on a couch": {
+        "SigLIP2 retrieved images": [
+            10492,
+            3619,
+            13588,
+            1301,
+            13652,
+            12255,
+            3389,
+            11592,
+            12588,
+            14074
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "subject incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "subject incorrect"
+        ]
+    },
+    "Girls stand in the park.": {
+        "SigLIP2 retrieved images": [
+            14055,
+            6862,
+            11723,
+            11294,
+            13558,
+            899,
+            2355,
+            9272,
+            3879,
+            887
+        ],
+        "human evaluation": [
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "object incorrect",
+            "subject incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "object incorrect",
+            "subject incorrect",
+            "correct"
+        ]
+    },
+    "An animal lying in the grass.": {
+        "SigLIP2 retrieved images": [
+            3308,
+            7542,
+            13247,
+            4431,
+            2534,
+            11475,
+            1721,
+            13662,
+            7561,
+            12210
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A lion sits in the grass.": {
+        "SigLIP2 retrieved images": [
+            13662,
+            11474,
+            4671,
+            8682,
+            4670,
+            7291,
+            11475,
+            3111,
+            8457,
+            7920
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "verb incorrect"
+        ]
+    },
+    "The person plays a song.": {
+        "SigLIP2 retrieved images": [
+            2376,
+            2568,
+            2680,
+            3419,
+            1332,
+            3173,
+            2851,
+            1648,
+            3027,
+            2012
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A pianist performs on stage.": {
+        "SigLIP2 retrieved images": [
+            2148,
+            3655,
+            922,
+            3419,
+            4799,
+            282,
+            362,
+            1870,
+            2568,
+            4075
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            ""
+        ]
+    },
+    "A woman lies on a bed.": {
+        "SigLIP2 retrieved images": [
+            7377,
+            10792,
+            13788,
+            52,
+            1757,
+            1758,
+            11201,
+            7056,
+            392,
+            1203
+        ],
+        "human evaluation": [
+            "subject incorrect",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "subject incorrect",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "The person appeared on the show": {
+        "SigLIP2 retrieved images": [
+            5121,
+            12746,
+            13194,
+            1015,
+            7369,
+            10477,
+            9943,
+            7833,
+            12361,
+            10321
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "The woman is walking on the garden.": {
+        "SigLIP2 retrieved images": [
+            3439,
+            6606,
+            9990,
+            3037,
+            813,
+            4092,
+            1740,
+            5233,
+            12,
+            3955
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "boat floating on river": {
+        "SigLIP2 retrieved images": [
+            2989,
+            1946,
+            3771,
+            4298,
+            9755,
+            14051,
+            13072,
+            3514,
+            7463,
+            7036
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "A woman lies in a chair.": {
+        "SigLIP2 retrieved images": [
+            6850,
+            4622,
+            3931,
+            8591,
+            11805,
+            10887,
+            10565,
+            1426,
+            10618,
+            719
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "subject incorrect",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "subject incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A woman sits on a windowsill.": {
+        "SigLIP2 retrieved images": [
+            2081,
+            7944,
+            9035,
+            11848,
+            6121,
+            14087,
+            5274,
+            1788,
+            10053,
+            6455
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A cat sits on the bed.": {
+        "SigLIP2 retrieved images": [
+            9317,
+            13114,
+            7847,
+            7880,
+            7056,
+            7881,
+            11996,
+            12475,
+            12860,
+            8943
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "A couple rides bicycles.": {
+        "SigLIP2 retrieved images": [
+            5064,
+            12968,
+            11704,
+            5212,
+            9088,
+            11356,
+            11703,
+            711,
+            12715,
+            2931
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "subject incorrect",
+            "object incorrect",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "object incorrect"
+        ]
+    },
+    "A mother plays with a daughter.": {
+        "SigLIP2 retrieved images": [
+            2057,
+            13971,
+            1489,
+            1543,
+            11752,
+            8202,
+            7317,
+            9883,
+            6648,
+            8771
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "The birds fly over the beach along the sunset": {
+        "SigLIP2 retrieved images": [
+            10574,
+            6105,
+            6296,
+            4652,
+            2893,
+            4328,
+            10801,
+            9929,
+            11330,
+            1890
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "subject incorrect"
+        ]
+    },
+    "A person is one of many singing with the crowd.": {
+        "SigLIP2 retrieved images": [
+            3246,
+            3925,
+            2182,
+            3516,
+            7578,
+            13561,
+            3970,
+            12617,
+            10515,
+            1893
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "boy sit on the couch": {
+        "SigLIP2 retrieved images": [
+            6341,
+            13498,
+            3096,
+            5598,
+            1330,
+            5599,
+            11575,
+            3056,
+            2851,
+            2494
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "A man stands in front of a whiteboard.": {
+        "SigLIP2 retrieved images": [
+            5771,
+            8749,
+            5059,
+            8858,
+            9769,
+            11956,
+            12219,
+            9927,
+            10252,
+            9685
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "The train will go to crystal city.": {
+        "SigLIP2 retrieved images": [
+            1376,
+            4391,
+            2404,
+            4373,
+            4880,
+            4701,
+            13544,
+            8491,
+            4389,
+            13571
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "The artist will play the guitar on stage.": {
+        "SigLIP2 retrieved images": [
+            8012,
+            2802,
+            2376,
+            363,
+            2680,
+            2157,
+            13099,
+            1766,
+            7583,
+            12799
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "Mother sits at the beach.": {
+        "SigLIP2 retrieved images": [
+            6981,
+            150,
+            2150,
+            1363,
+            3556,
+            7209,
+            10661,
+            3123,
+            3200,
+            8192
+        ],
+        "human evaluation": [
+            "subject incorrect",
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ]
+    },
+    "A player returns a ball.": {
+        "SigLIP2 retrieved images": [
+            421,
+            4381,
+            3883,
+            631,
+            1308,
+            13022,
+            1300,
+            13373,
+            3074,
+            2190
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A girl is leaning on a tree.": {
+        "SigLIP2 retrieved images": [
+            5039,
+            9384,
+            11344,
+            323,
+            4710,
+            4167,
+            6310,
+            8290,
+            12712,
+            114
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "The man sits on the sofa.": {
+        "SigLIP2 retrieved images": [
+            1330,
+            7287,
+            2241,
+            2992,
+            1156,
+            1288,
+            13498,
+            1886,
+            1278,
+            497
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "A person sitting on a tree.": {
+        "SigLIP2 retrieved images": [
+            3067,
+            696,
+            11300,
+            2357,
+            8536,
+            12712,
+            13558,
+            6310,
+            5086,
+            5849
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "Players play ball.": {
+        "SigLIP2 retrieved images": [
+            2367,
+            3824,
+            6226,
+            3725,
+            3148,
+            794,
+            3765,
+            5525,
+            1939,
+            2263
+        ],
+        "human evaluation": [
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ]
+    },
+    "A girl runs on a bridge.": {
+        "SigLIP2 retrieved images": [
+            3637,
+            9901,
+            12907,
+            8337,
+            1822,
+            1193,
+            3252,
+            2043,
+            104,
+            9786
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "The boy is standing on the field": {
+        "SigLIP2 retrieved images": [
+            635,
+            2576,
+            12750,
+            735,
+            2428,
+            9474,
+            460,
+            13036,
+            3175,
+            6792
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect"
+        ]
+    },
+    "person stands in room": {
+        "SigLIP2 retrieved images": [
+            6497,
+            98,
+            7299,
+            13210,
+            8828,
+            5433,
+            3097,
+            2516,
+            8749,
+            13932
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "A man stands in front.": {
+        "SigLIP2 retrieved images": [
+            6497,
+            13567,
+            98,
+            12966,
+            776,
+            268,
+            2930,
+            5771,
+            3149,
+            1737
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "The woman is going to wash her hair.": {
+        "SigLIP2 retrieved images": [
+            6725,
+            8950,
+            7312,
+            5277,
+            12099,
+            11724,
+            4473,
+            10134,
+            5404,
+            6162
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A woman is swimming in a pool.": {
+        "SigLIP2 retrieved images": [
+            3805,
+            1531,
+            4576,
+            2672,
+            2147,
+            4444,
+            11942,
+            12446,
+            7835,
+            7625
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "A person walking on a hill.": {
+        "SigLIP2 retrieved images": [
+            6585,
+            5937,
+            1737,
+            6556,
+            8676,
+            8411,
+            7747,
+            2026,
+            2311,
+            12163
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "The animal sat in the meadow.": {
+        "SigLIP2 retrieved images": [
+            3308,
+            4432,
+            7542,
+            12210,
+            8741,
+            2534,
+            6858,
+            8462,
+            1721,
+            9870
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "animal sitting on lawn": {
+        "SigLIP2 retrieved images": [
+            3308,
+            7542,
+            13712,
+            9870,
+            3013,
+            13185,
+            2461,
+            7561,
+            3236,
+            8462
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A man sits in front of a white background": {
+        "SigLIP2 retrieved images": [
+            8375,
+            3064,
+            5740,
+            583,
+            5770,
+            175,
+            6069,
+            2763,
+            1837,
+            1289
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "The person poses for one minute.": {
+        "SigLIP2 retrieved images": [
+            5770,
+            6964,
+            8304,
+            13519,
+            6746,
+            9139,
+            4463,
+            10660,
+            6187,
+            9272
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A man walking with a camera": {
+        "SigLIP2 retrieved images": [
+            5092,
+            3963,
+            1051,
+            2718,
+            3766,
+            4241,
+            2626,
+            80,
+            1815,
+            1737
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "subject incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect"
+        ]
+    },
+    "A man sits on a boat.": {
+        "SigLIP2 retrieved images": [
+            13277,
+            8000,
+            11943,
+            8002,
+            12516,
+            10740,
+            13130,
+            11641,
+            5925,
+            3771
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "subject incorrect",
+            "object incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A couple hugs against a tree.": {
+        "SigLIP2 retrieved images": [
+            5083,
+            6845,
+            9340,
+            5082,
+            12330,
+            12420,
+            4754,
+            9921,
+            10730,
+            895
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "A person wants to sit on a couch.": {
+        "SigLIP2 retrieved images": [
+            2241,
+            3053,
+            6582,
+            1777,
+            2992,
+            1278,
+            7287,
+            8680,
+            1330,
+            959
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "The players look at each other on the pitch.": {
+        "SigLIP2 retrieved images": [
+            12066,
+            3746,
+            11765,
+            10161,
+            2145,
+            8360,
+            10977,
+            8021,
+            5032,
+            7814
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "subject incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect"
+        ],
+        "GPT evaluation": [
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "A person completes against other soccer players.": {
+        "SigLIP2 retrieved images": [
+            4228,
+            9598,
+            509,
+            9798,
+            113,
+            4711,
+            13793,
+            3330,
+            3822,
+            6516
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "An athlete performs at the festival.": {
+        "SigLIP2 retrieved images": [
+            11934,
+            1906,
+            2995,
+            3950,
+            751,
+            4169,
+            3511,
+            1101,
+            9173,
+            2633
+        ],
+        "human evaluation": [
+            "subject incorrect",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "subject incorrect"
+        ]
+    },
+    "the person enters the room": {
+        "SigLIP2 retrieved images": [
+            5433,
+            5076,
+            7299,
+            13018,
+            8519,
+            2516,
+            8045,
+            929,
+            13685,
+            6480
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "object incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "A group of dancers perform a show": {
+        "SigLIP2 retrieved images": [
+            2149,
+            1582,
+            11119,
+            2287,
+            3650,
+            4280,
+            4700,
+            3930,
+            11581,
+            1322
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "The girl eats chocolate.": {
+        "SigLIP2 retrieved images": [
+            8872,
+            7428,
+            7817,
+            4734,
+            4735,
+            10624,
+            8394,
+            1251,
+            6385,
+            11066
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "subject incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A man walks on the shore.": {
+        "SigLIP2 retrieved images": [
+            3399,
+            10609,
+            6946,
+            3665,
+            503,
+            7548,
+            2395,
+            5195,
+            2166,
+            388
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "A woman is standing on a lake.": {
+        "SigLIP2 retrieved images": [
+            13838,
+            11454,
+            8785,
+            9731,
+            4474,
+            118,
+            527,
+            2930,
+            1862,
+            2781
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "object incorrect",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "subject incorrect",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "A cat rests on the grass": {
+        "SigLIP2 retrieved images": [
+            5851,
+            464,
+            8569,
+            202,
+            9023,
+            1942,
+            9609,
+            1969,
+            1720,
+            3021
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "person stand besides the tree": {
+        "SigLIP2 retrieved images": [
+            6320,
+            7544,
+            10100,
+            10886,
+            12901,
+            7676,
+            1948,
+            11300,
+            11914,
+            2049
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "A woman sits looking at a field.": {
+        "SigLIP2 retrieved images": [
+            3429,
+            4923,
+            1861,
+            5240,
+            813,
+            5971,
+            12312,
+            1869,
+            1011,
+            8412
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "subject incorrect"
+        ]
+    },
+    "A player vies for a ball.": {
+        "SigLIP2 retrieved images": [
+            8380,
+            4228,
+            5156,
+            6516,
+            8606,
+            7823,
+            530,
+            6893,
+            881,
+            5704
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A person jumps into the sea.": {
+        "SigLIP2 retrieved images": [
+            2777,
+            3854,
+            866,
+            4784,
+            1447,
+            7584,
+            681,
+            446,
+            11798,
+            364
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "A dog lies on the grass.": {
+        "SigLIP2 retrieved images": [
+            1658,
+            11335,
+            3236,
+            1045,
+            2529,
+            3887,
+            9812,
+            5452,
+            10717,
+            8716
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "The woman is sitting on the windowsill.": {
+        "SigLIP2 retrieved images": [
+            2081,
+            9035,
+            7944,
+            14087,
+            11848,
+            5274,
+            7943,
+            10053,
+            6455,
+            6121
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "A man stands on a sail boat.": {
+        "SigLIP2 retrieved images": [
+            10959,
+            12419,
+            11943,
+            8000,
+            7854,
+            4101,
+            5924,
+            5399,
+            3300,
+            4003
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "object incorrect",
+            "subject incorrect"
+        ]
+    },
+    "Girl is standing in the grass.": {
+        "SigLIP2 retrieved images": [
+            1721,
+            1480,
+            2461,
+            13908,
+            11008,
+            3308,
+            9402,
+            342,
+            10304,
+            4432
+        ],
+        "human evaluation": [
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ]
+    },
+    "A person walks down a road towards a motorcycle.": {
+        "SigLIP2 retrieved images": [
+            2773,
+            1051,
+            569,
+            12416,
+            11422,
+            7747,
+            10540,
+            6014,
+            420,
+            8964
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ],
+        "GPT evaluation": [
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "A man climns a wall.": {
+        "SigLIP2 retrieved images": [
+            2849,
+            5119,
+            13251,
+            10692,
+            11156,
+            7044,
+            5535,
+            5298,
+            12342,
+            5169
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "subject incorrect"
+        ],
+        "GPT evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect"
+        ]
+    }
+}

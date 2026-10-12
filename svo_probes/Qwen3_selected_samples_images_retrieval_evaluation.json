@@ -1,0 +1,2602 @@
+{
+    "A person walks down a road towards a motorcycle.": {
+        "Qwen3 retrieved images": [
+            10816,
+            1452,
+            2027,
+            2346,
+            398,
+            8797,
+            523,
+            4470,
+            420,
+            6697
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "object incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "A person jumps in front of a background.": {
+        "Qwen3 retrieved images": [
+            10660,
+            10110,
+            5830,
+            12380,
+            12124,
+            14005,
+            6878,
+            11748,
+            3950,
+            4964
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "boat floating on river": {
+        "Qwen3 retrieved images": [
+            9408,
+            11333,
+            4121,
+            14051,
+            13072,
+            13655,
+            4276,
+            9755,
+            5786,
+            13997
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "The person sit in the window opposite side": {
+        "Qwen3 retrieved images": [
+            3749,
+            6177,
+            2869,
+            3393,
+            9471,
+            7491,
+            3729,
+            753,
+            11303,
+            5860
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "The woman is sitting on the windowsill.": {
+        "Qwen3 retrieved images": [
+            753,
+            5860,
+            3749,
+            14087,
+            144,
+            1788,
+            11848,
+            2081,
+            9874,
+            6412
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "The woman and her son walk along the trail.": {
+        "Qwen3 retrieved images": [
+            3716,
+            1936,
+            3084,
+            668,
+            3559,
+            2940,
+            3440,
+            7437,
+            2931,
+            11379
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect"
+        ]
+    },
+    "Two men are running up a trail.": {
+        "Qwen3 retrieved images": [
+            9168,
+            1824,
+            1233,
+            1667,
+            11743,
+            3165,
+            4209,
+            2311,
+            6983,
+            11738
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ]
+    },
+    "A girl sits on a ball.": {
+        "Qwen3 retrieved images": [
+            7789,
+            2980,
+            1940,
+            1318,
+            909,
+            221,
+            3813,
+            910,
+            10324,
+            260
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "object incorrect"
+        ]
+    },
+    "Boats, at a marina.": {
+        "Qwen3 retrieved images": [
+            9992,
+            10605,
+            5676,
+            4059,
+            13839,
+            7128,
+            7424,
+            10604,
+            12487,
+            6566
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A WORKER STANDS IN FRONT": {
+        "Qwen3 retrieved images": [
+            7691,
+            11073,
+            10721,
+            7402,
+            8410,
+            10104,
+            12108,
+            9418,
+            9681,
+            7719
+        ],
+        "human evaluation": [
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "subject incorrect"
+        ]
+    },
+    "A woman sitting in a terrace.": {
+        "Qwen3 retrieved images": [
+            2433,
+            303,
+            5720,
+            4601,
+            6758,
+            2133,
+            4941,
+            891,
+            3114,
+            2650
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A couple rides bicycles.": {
+        "Qwen3 retrieved images": [
+            11704,
+            5212,
+            5064,
+            12715,
+            11703,
+            12968,
+            5213,
+            12904,
+            8255,
+            11356
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "correct"
+        ]
+    },
+    "An athlete performs at the festival.": {
+        "Qwen3 retrieved images": [
+            1516,
+            751,
+            2758,
+            3511,
+            6729,
+            263,
+            2569,
+            7515,
+            3862,
+            1230
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A dog lies on the grass.": {
+        "Qwen3 retrieved images": [
+            6913,
+            9946,
+            10250,
+            8716,
+            11335,
+            1045,
+            1970,
+            1080,
+            12675,
+            1096
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A woman lies on a sofa.": {
+        "Qwen3 retrieved images": [
+            1733,
+            3466,
+            3389,
+            10492,
+            11045,
+            3619,
+            11592,
+            12588,
+            1801,
+            13463
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A sculpture of a person walking": {
+        "Qwen3 retrieved images": [
+            10247,
+            6746,
+            11773,
+            10809,
+            6745,
+            6963,
+            101,
+            3301,
+            2998,
+            5202
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ]
+    },
+    "A woman sits on a windowsill.": {
+        "Qwen3 retrieved images": [
+            753,
+            5860,
+            2081,
+            1788,
+            11848,
+            14087,
+            144,
+            3749,
+            9874,
+            12207
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect"
+        ]
+    },
+    "A girl is leaning on a tree.": {
+        "Qwen3 retrieved images": [
+            4710,
+            323,
+            3509,
+            8535,
+            1139,
+            1653,
+            11344,
+            1741,
+            11591,
+            4167
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "A girl is sitting on the field.": {
+        "Qwen3 retrieved images": [
+            3018,
+            789,
+            260,
+            7560,
+            8204,
+            675,
+            4251,
+            7007,
+            1869,
+            2938
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "The players look at each other on the pitch.": {
+        "Qwen3 retrieved images": [
+            6811,
+            914,
+            11133,
+            7009,
+            3826,
+            6492,
+            2392,
+            11611,
+            6933,
+            484
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "The woman is walking on the garden.": {
+        "Qwen3 retrieved images": [
+            810,
+            6606,
+            890,
+            624,
+            2756,
+            12196,
+            920,
+            5233,
+            2858,
+            1740
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A person wants to sit on a couch.": {
+        "Qwen3 retrieved images": [
+            8680,
+            2241,
+            3053,
+            2992,
+            6361,
+            1733,
+            3096,
+            13498,
+            3466,
+            1156
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "A person jumps into the sea.": {
+        "Qwen3 retrieved images": [
+            866,
+            687,
+            2784,
+            8647,
+            10689,
+            11798,
+            4971,
+            364,
+            7584,
+            1447
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "man walking in the alley": {
+        "Qwen3 retrieved images": [
+            149,
+            7831,
+            2998,
+            3184,
+            13335,
+            3766,
+            3183,
+            9092,
+            1056,
+            359
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "verb incorrect"
+        ]
+    },
+    "The man sits on the sofa.": {
+        "Qwen3 retrieved images": [
+            2992,
+            6362,
+            7287,
+            3376,
+            617,
+            2241,
+            2709,
+            723,
+            1330,
+            497
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "The animals run in the meadow.": {
+        "Qwen3 retrieved images": [
+            1191,
+            4053,
+            1976,
+            8459,
+            11334,
+            5469,
+            3734,
+            7891,
+            742,
+            4639
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "A woman is standing on a lake.": {
+        "Qwen3 retrieved images": [
+            2781,
+            2018,
+            962,
+            3274,
+            6196,
+            1862,
+            6034,
+            13551,
+            6490,
+            13838
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "Girl is standing in the grass.": {
+        "Qwen3 retrieved images": [
+            3579,
+            675,
+            3018,
+            8098,
+            8903,
+            789,
+            4251,
+            8204,
+            3009,
+            3105
+        ],
+        "human evaluation": [
+            "subject incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "person stands in room": {
+        "Qwen3 retrieved images": [
+            2516,
+            5411,
+            8841,
+            1601,
+            13018,
+            98,
+            10721,
+            8519,
+            3738,
+            3146
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A cat rests on the grass": {
+        "Qwen3 retrieved images": [
+            4505,
+            8569,
+            202,
+            9609,
+            3021,
+            5851,
+            13688,
+            9023,
+            6913,
+            1969
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct"
+        ]
+    },
+    "A person completes against other soccer players.": {
+        "Qwen3 retrieved images": [
+            13793,
+            2518,
+            4356,
+            3162,
+            9598,
+            2204,
+            6757,
+            11253,
+            9982,
+            12873
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "An animal lying in the grass.": {
+        "Qwen3 retrieved images": [
+            6913,
+            13185,
+            6290,
+            8462,
+            5462,
+            7542,
+            3111,
+            8237,
+            3308,
+            13450
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "Player run with ball": {
+        "Qwen3 retrieved images": [
+            2416,
+            514,
+            5402,
+            13554,
+            9846,
+            4052,
+            4048,
+            10375,
+            8054,
+            9978
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "A person looks ready for a show.": {
+        "Qwen3 retrieved images": [
+            1021,
+            10777,
+            6539,
+            12611,
+            9082,
+            9321,
+            2013,
+            7691,
+            11081,
+            7610
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "subject incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "A woman sits on a branch above the sand.": {
+        "Qwen3 retrieved images": [
+            4554,
+            11591,
+            1139,
+            5849,
+            1632,
+            11343,
+            3794,
+            12313,
+            12454,
+            10095
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "A person sits on a rock.": {
+        "Qwen3 retrieved images": [
+            8709,
+            9099,
+            235,
+            6406,
+            8507,
+            7233,
+            5362,
+            8951,
+            3739,
+            11609
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A woman lies in a chair.": {
+        "Qwen3 retrieved images": [
+            6850,
+            2276,
+            557,
+            1733,
+            7173,
+            1426,
+            275,
+            3619,
+            3389,
+            886
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "verb incorrect"
+        ]
+    },
+    "The person plays a song.": {
+        "Qwen3 retrieved images": [
+            3242,
+            2541,
+            5510,
+            4357,
+            3321,
+            3292,
+            2012,
+            2633,
+            2692,
+            2045
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "The dressed up actors take a pose.": {
+        "Qwen3 retrieved images": [
+            9419,
+            7429,
+            2987,
+            4154,
+            9827,
+            13738,
+            13113,
+            9511,
+            4290,
+            10862
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "Players play ball.": {
+        "Qwen3 retrieved images": [
+            2571,
+            1630,
+            12317,
+            13771,
+            11282,
+            4412,
+            11522,
+            914,
+            3554,
+            7529
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "The person appeared on the show": {
+        "Qwen3 retrieved images": [
+            12611,
+            13747,
+            4193,
+            13505,
+            7091,
+            12776,
+            9321,
+            5121,
+            4175,
+            4166
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "The train will go to crystal city.": {
+        "Qwen3 retrieved images": [
+            13799,
+            13280,
+            4236,
+            11216,
+            8916,
+            3524,
+            4701,
+            4373,
+            6472,
+            1376
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "A player returns a ball.": {
+        "Qwen3 retrieved images": [
+            3022,
+            3386,
+            2817,
+            536,
+            3642,
+            11621,
+            2332,
+            3981,
+            13744,
+            3443
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A woman walks past a window in an airport.": {
+        "Qwen3 retrieved images": [
+            8486,
+            271,
+            4869,
+            861,
+            13911,
+            2132,
+            5541,
+            5286,
+            8904,
+            13795
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "A person sitting on a tree.": {
+        "Qwen3 retrieved images": [
+            6951,
+            11591,
+            2357,
+            1139,
+            1951,
+            2433,
+            3067,
+            5849,
+            10255,
+            10095
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A man stands in front.": {
+        "Qwen3 retrieved images": [
+            10721,
+            5202,
+            12108,
+            5739,
+            13620,
+            5464,
+            7691,
+            1186,
+            10499,
+            7872
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "person stand besides the tree": {
+        "Qwen3 retrieved images": [
+            6037,
+            9143,
+            11135,
+            6320,
+            9942,
+            3509,
+            4710,
+            2041,
+            678,
+            1590
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "A player vies for a ball.": {
+        "Qwen3 retrieved images": [
+            2702,
+            7672,
+            12024,
+            13746,
+            9305,
+            4130,
+            8736,
+            5984,
+            530,
+            9982
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "Girls stand in the park.": {
+        "Qwen3 retrieved images": [
+            5232,
+            7671,
+            10302,
+            914,
+            1210,
+            9621,
+            9931,
+            11096,
+            5352,
+            887
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "The animal sat in the meadow.": {
+        "Qwen3 retrieved images": [
+            13185,
+            1271,
+            12210,
+            2688,
+            8462,
+            8237,
+            13450,
+            7561,
+            7542,
+            3308
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A man sits at a desk.": {
+        "Qwen3 retrieved images": [
+            583,
+            7182,
+            1171,
+            5740,
+            826,
+            3538,
+            1289,
+            3673,
+            831,
+            532
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "A girl sits against a tree.": {
+        "Qwen3 retrieved images": [
+            4710,
+            323,
+            8535,
+            1139,
+            11344,
+            1687,
+            1261,
+            1741,
+            11343,
+            3509
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A man stands on a sail boat.": {
+        "Qwen3 retrieved images": [
+            11943,
+            5924,
+            10959,
+            8969,
+            5399,
+            12744,
+            5091,
+            6941,
+            8000,
+            12419
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A couple hugs against a tree.": {
+        "Qwen3 retrieved images": [
+            5083,
+            12330,
+            12105,
+            895,
+            9921,
+            13579,
+            4754,
+            4755,
+            5082,
+            6844
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "A woman sits looking at a field.": {
+        "Qwen3 retrieved images": [
+            984,
+            4923,
+            2909,
+            1347,
+            7233,
+            1869,
+            5314,
+            1009,
+            2316,
+            2361
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "The woman is going to wash her hair.": {
+        "Qwen3 retrieved images": [
+            7312,
+            6725,
+            5277,
+            8950,
+            11724,
+            4599,
+            12099,
+            11722,
+            13049,
+            10861
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect"
+        ]
+    },
+    "A couple kiss in a meadow.": {
+        "Qwen3 retrieved images": [
+            5666,
+            12927,
+            10591,
+            3045,
+            5082,
+            4740,
+            9535,
+            13815,
+            6845,
+            5567
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "A man sits in front of a white background": {
+        "Qwen3 retrieved images": [
+            3064,
+            1805,
+            583,
+            8375,
+            192,
+            1289,
+            2719,
+            1837,
+            6683,
+            2275
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "A person jumping into water.": {
+        "Qwen3 retrieved images": [
+            10689,
+            687,
+            866,
+            2784,
+            8647,
+            13313,
+            8103,
+            106,
+            3436,
+            1095
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "A woman sleeps on a couch": {
+        "Qwen3 retrieved images": [
+            11045,
+            1301,
+            10492,
+            11592,
+            3466,
+            1733,
+            6361,
+            12727,
+            3389,
+            3619
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A man walking in a forest.": {
+        "Qwen3 retrieved images": [
+            749,
+            743,
+            3390,
+            2333,
+            667,
+            855,
+            3722,
+            3345,
+            8333,
+            1327
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect"
+        ]
+    },
+    "The person will sing into the microphone.": {
+        "Qwen3 retrieved images": [
+            3515,
+            2595,
+            12834,
+            3413,
+            241,
+            4009,
+            8226,
+            3468,
+            3088,
+            7774
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "animal sitting on lawn": {
+        "Qwen3 retrieved images": [
+            2688,
+            6913,
+            1271,
+            13688,
+            10250,
+            8716,
+            13185,
+            5462,
+            8237,
+            8462
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A puppy stands in the grass.": {
+        "Qwen3 retrieved images": [
+            9361,
+            1620,
+            5621,
+            1637,
+            5400,
+            1674,
+            5401,
+            7580,
+            83,
+            5048
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "A person is one of many singing with the crowd.": {
+        "Qwen3 retrieved images": [
+            689,
+            3970,
+            10515,
+            10828,
+            1679,
+            12038,
+            13561,
+            13700,
+            4363,
+            3613
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "The man is taking a walk in the park.": {
+        "Qwen3 retrieved images": [
+            3365,
+            10845,
+            2857,
+            1018,
+            9645,
+            5427,
+            7390,
+            4143,
+            811,
+            7654
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "A person walking on a hill.": {
+        "Qwen3 retrieved images": [
+            2867,
+            8676,
+            424,
+            2499,
+            6585,
+            860,
+            674,
+            3504,
+            3237,
+            2311
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "A man sits on a boat.": {
+        "Qwen3 retrieved images": [
+            12516,
+            5091,
+            11641,
+            11943,
+            12744,
+            9755,
+            12411,
+            5173,
+            11079,
+            8002
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A woman is swimming in a pool.": {
+        "Qwen3 retrieved images": [
+            11942,
+            7835,
+            7406,
+            1493,
+            4843,
+            4576,
+            5715,
+            2147,
+            884,
+            10598
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "The artist will play the guitar on stage.": {
+        "Qwen3 retrieved images": [
+            921,
+            9760,
+            4204,
+            3151,
+            2495,
+            11392,
+            3447,
+            3193,
+            363,
+            2157
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "The girl sat on the stair.": {
+        "Qwen3 retrieved images": [
+            1320,
+            8188,
+            9966,
+            4325,
+            8189,
+            4793,
+            9965,
+            13883,
+            10137,
+            143
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "the person enters the room": {
+        "Qwen3 retrieved images": [
+            6425,
+            5076,
+            2516,
+            3097,
+            13018,
+            196,
+            6480,
+            8519,
+            8904,
+            7413
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A pianist performs on stage.": {
+        "Qwen3 retrieved images": [
+            4799,
+            362,
+            2148,
+            1870,
+            2438,
+            1934,
+            3655,
+            922,
+            282,
+            12088
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "A group of dancers perform a show": {
+        "Qwen3 retrieved images": [
+            2149,
+            11119,
+            1582,
+            12594,
+            6808,
+            1106,
+            4409,
+            13568,
+            12745,
+            6418
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A person working with a team": {
+        "Qwen3 retrieved images": [
+            8251,
+            7691,
+            10299,
+            13575,
+            12204,
+            11965,
+            9934,
+            3487,
+            12761,
+            185
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "Players walking onto the pitch.": {
+        "Qwen3 retrieved images": [
+            12699,
+            5802,
+            3554,
+            8586,
+            2609,
+            9250,
+            4587,
+            3845,
+            3841,
+            12650
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A girl runs on a bridge.": {
+        "Qwen3 retrieved images": [
+            11565,
+            13230,
+            9901,
+            104,
+            6701,
+            8098,
+            7605,
+            1833,
+            13134,
+            1295
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "A woman lies on a bed.": {
+        "Qwen3 retrieved images": [
+            3139,
+            5018,
+            3225,
+            557,
+            5558,
+            11201,
+            215,
+            275,
+            10792,
+            11146
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "The birds fly over the beach along the sunset": {
+        "Qwen3 retrieved images": [
+            10574,
+            10801,
+            8143,
+            6105,
+            6296,
+            8142,
+            6596,
+            11330,
+            4652,
+            6383
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ]
+    },
+    "The man jumped across the mountain.": {
+        "Qwen3 retrieved images": [
+            11771,
+            682,
+            9582,
+            8196,
+            8730,
+            11748,
+            7741,
+            4964,
+            705,
+            1544
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "A man climns a wall.": {
+        "Qwen3 retrieved images": [
+            5535,
+            5298,
+            10692,
+            7000,
+            10691,
+            603,
+            5119,
+            13251,
+            13033,
+            12342
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "Mother sits at the beach.": {
+        "Qwen3 retrieved images": [
+            889,
+            975,
+            34,
+            2356,
+            13011,
+            12313,
+            6017,
+            11450,
+            880,
+            11732
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "man cook in kitchen": {
+        "Qwen3 retrieved images": [
+            5238,
+            12670,
+            4483,
+            9778,
+            7956,
+            6476,
+            11875,
+            10177,
+            5102,
+            1179
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "A cat sits on the bed.": {
+        "Qwen3 retrieved images": [
+            9317,
+            13114,
+            12860,
+            7880,
+            7847,
+            8942,
+            7056,
+            13331,
+            5914,
+            12475
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "A man stands in front of a whiteboard.": {
+        "Qwen3 retrieved images": [
+            9685,
+            9684,
+            12220,
+            5771,
+            11092,
+            12136,
+            8858,
+            9927,
+            12219,
+            3146
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "subject incorrect"
+        ]
+    },
+    "The person poses for one minute.": {
+        "Qwen3 retrieved images": [
+            10721,
+            9909,
+            7691,
+            11766,
+            10777,
+            7719,
+            5464,
+            9659,
+            5770,
+            9172
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "A woman kayaking in a lake.": {
+        "Qwen3 retrieved images": [
+            10523,
+            5890,
+            9174,
+            7837,
+            6138,
+            6996,
+            6024,
+            1862,
+            4752,
+            5295
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ]
+    },
+    "A girl is running on the street.": {
+        "Qwen3 retrieved images": [
+            13230,
+            7605,
+            10519,
+            4654,
+            7001,
+            8098,
+            12381,
+            2422,
+            9777,
+            2188
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "A woman is jumping in the sunset.": {
+        "Qwen3 retrieved images": [
+            1890,
+            9139,
+            13381,
+            6706,
+            7822,
+            12373,
+            6633,
+            6387,
+            7764,
+            6169
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "The boy is standing on the field": {
+        "Qwen3 retrieved images": [
+            735,
+            12750,
+            1324,
+            6068,
+            10510,
+            3175,
+            7153,
+            3352,
+            2441,
+            5397
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A man walking with a camera": {
+        "Qwen3 retrieved images": [
+            3963,
+            5092,
+            6890,
+            10542,
+            4241,
+            9336,
+            2718,
+            11741,
+            8847,
+            8842
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "verb incorrect"
+        ]
+    },
+    "This person carries another person.": {
+        "Qwen3 retrieved images": [
+            8564,
+            7150,
+            3269,
+            13012,
+            11089,
+            2923,
+            13196,
+            4168,
+            3717,
+            8480
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "player score a goal": {
+        "Qwen3 retrieved images": [
+            8654,
+            2204,
+            4356,
+            4414,
+            4981,
+            6764,
+            1424,
+            4306,
+            9247,
+            9970
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "boy sit on the couch": {
+        "Qwen3 retrieved images": [
+            3096,
+            13498,
+            5599,
+            2992,
+            633,
+            6341,
+            4864,
+            8366,
+            5598,
+            2494
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "A man runs through the city.": {
+        "Qwen3 retrieved images": [
+            2740,
+            2915,
+            119,
+            4819,
+            8699,
+            2472,
+            588,
+            93,
+            10548,
+            1057
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "A player celebrates with his teammates.": {
+        "Qwen3 retrieved images": [
+            344,
+            2832,
+            5199,
+            9709,
+            4345,
+            10074,
+            9464,
+            7876,
+            9249,
+            2271
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "The girl eats chocolate.": {
+        "Qwen3 retrieved images": [
+            8872,
+            4734,
+            7428,
+            10624,
+            7817,
+            4735,
+            2676,
+            11638,
+            4232,
+            11482
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "A man walks on the shore.": {
+        "Qwen3 retrieved images": [
+            2118,
+            10706,
+            3430,
+            1399,
+            1176,
+            3399,
+            10609,
+            145,
+            8738,
+            545
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "A lion sits in the grass.": {
+        "Qwen3 retrieved images": [
+            11474,
+            8457,
+            3111,
+            13662,
+            8682,
+            7291,
+            7920,
+            11475,
+            4671,
+            9456
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect"
+        ]
+    },
+    "A mother plays with a daughter.": {
+        "Qwen3 retrieved images": [
+            13346,
+            12895,
+            8466,
+            8771,
+            6648,
+            2057,
+            8202,
+            4510,
+            11728,
+            13971
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    }
+}

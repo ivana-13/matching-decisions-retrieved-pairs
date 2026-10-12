@@ -1,0 +1,2602 @@
+{
+    "3906": {
+        "Qwen3 retrieved captions": [
+            "The woman sits on a couch.",
+            "A woman is sitting on a sofa.",
+            "A woman sits on a sofa.",
+            "A brunette woman lies comfortably on a sofa.",
+            "A woman sitting on a sofa.",
+            "A woman is sitting on a couch.",
+            "The person looks comfortable sitting on a couch at home.",
+            "A woman sits on a couch.",
+            "A woman sitting on a couch.",
+            "The woman is sitting on the sofa."
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect"
+        ]
+    },
+    "5599": {
+        "Qwen3 retrieved captions": [
+            "A boy sits on the couch.",
+            "A child sits on the couch.",
+            "A boy is sitting on the couch.",
+            "A boy looks out the window.",
+            "A child is looking out the window.",
+            "The boy is sitting on the couch.",
+            "boy sit on the couch",
+            "Child looking through window",
+            "A child looks through a window.",
+            "A boy stands near a window."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "4164": {
+        "Qwen3 retrieved captions": [
+            "A protester holds a symbol.",
+            "Person standing ground in a protest.",
+            "Person holding a sign.",
+            "A man holds the sign",
+            "They hold a protest about solidarity.",
+            "The protesters carry a banner",
+            "A man is carrying a flag.",
+            "Protestors hold blank banners.",
+            "A person is about to pass a sign.",
+            "Man waving flag"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect"
+        ]
+    },
+    "12895": {
+        "Qwen3 retrieved captions": [
+            "A mother playing with her child.",
+            "A mother plays with a daughter.",
+            "A mother playing with a girl.",
+            "The mother plays with her daughter.",
+            "A mother plays with her son",
+            "The mother plays with the daughter.",
+            "A mother plays with her baby.",
+            "The mother plays with the baby.",
+            "A mother plays with a boy.",
+            "The mother plays with her baby."
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "1549": {
+        "Qwen3 retrieved captions": [
+            "A man takes a jump into the sea.",
+            "A person jumps at the sea.",
+            "Boy jumps in sea",
+            "A man jumps off a rock",
+            "A man jumps off a rock.",
+            "A person jumps near the sea.",
+            "A person jumps into the sea.",
+            "A man is jumping into the sea.",
+            "A man jumps into the sea.",
+            "The man jumps into the sea."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "12594": {
+        "Qwen3 retrieved captions": [
+            "People dance in a concert.",
+            "Dancers perform on stage.",
+            "A group of dancers perform a show",
+            "Women perform a dance.",
+            "The dancers perform on stage",
+            "A woman dances on stage.",
+            "A dancer leaping in the air.",
+            "People are practicing their routine on a cheer and dance team.",
+            "The people are performing a dance.",
+            "Ballet dancers performing at night"
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "4167": {
+        "Qwen3 retrieved captions": [
+            "A girl leans on the tree.",
+            "A girl leans on a tree.",
+            "A child standing in a tree.",
+            "A girl is leaning on a tree.",
+            "A girl leaning against a tree.",
+            "A girl stands in a forest.",
+            "A child sits in a tree.",
+            "A girl stands in the forest.",
+            "A girl sits in a tree.",
+            "A girl is sitting in a tree."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "6597": {
+        "Qwen3 retrieved captions": [
+            "Two actors pose for a movie festival.",
+            "Two actor attending the red carpet",
+            "Actors pose at a premiere.",
+            "Actors attend the red carpet.",
+            "An actor arrives at the award ceremony with an actress wearing a gown.",
+            "The actors pose at the premiere.",
+            "Actors pose in for film premiere.",
+            "A woman arrives at a film premier.",
+            "An actress arrives at a film premiere.",
+            "Actors pose at the screening."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "2595": {
+        "Qwen3 retrieved captions": [
+            "The artist sings into the microphone.",
+            "A person singing into a microphone.",
+            "A person sings into a microphone.",
+            "An artist sings into a microphone.",
+            "A person singing in a microphone.",
+            "The artist performed by singing into the microphone.",
+            "The person will sing into the microphone.",
+            "A person sings in rehearsal.",
+            "The person sings at the rehearsal.",
+            "A person singing"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "3020": {
+        "Qwen3 retrieved captions": [
+            "A family sits on the beach.",
+            "A family is sitting on a beach.",
+            "A family stands on the beach.",
+            "A family stands on a beach.",
+            "A family lying on a beach",
+            "The family lies near the beach.",
+            "A family walking on a beach",
+            "A family plays at the beach.",
+            "Family is playing on the beach.",
+            "A family walks on the beach."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "5198": {
+        "Qwen3 retrieved captions": [
+            "The team line up at a match",
+            "The players are walking onto the pitch to begin the match.",
+            "Players line up during a match.",
+            "Players standing for the anthem.",
+            "Players stand in a circle before a soccer match.",
+            "Players walk before the match.",
+            "The players stood in line at the match.",
+            "The Players are walking the field before the match.",
+            "The people in the stands watch the players have a soccer match.",
+            "Players kneeling during the anthem."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "4819": {
+        "Qwen3 retrieved captions": [
+            "A man runs through the city.",
+            "A person run in the city",
+            "A man runs in the city.",
+            "A person running in the city.",
+            "A person runs in the city.",
+            "A man runs in the street",
+            "A man running in the street.",
+            "A man runs on the street.",
+            "A person runs on the street",
+            "person running in street"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "2081": {
+        "Qwen3 retrieved captions": [
+            "A woman sits on a windowsill.",
+            "A woman sits in the windowsill.",
+            "A woman sits in a window.",
+            "A woman staring out a window.",
+            "A girl sits by a window.",
+            "A woman sits in a window sill.",
+            "A woman leans looking out the window.",
+            "A girl is sitting by the window.",
+            "A woman looks out a window.",
+            "The woman is sitting on the windowsill."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "83": {
+        "Qwen3 retrieved captions": [
+            "Puppy standing in grass.",
+            "A puppy is standing in the grass.",
+            "puppy walk on the grass",
+            "A puppy stands in the grass.",
+            "A puppy is standing on a meadow.",
+            "A puppy standing in a meadow.",
+            "The puppy walks through the grass.",
+            "The puppy stands in the grass.",
+            "A puppy sits on the grass.",
+            "A puppy sits in the grass."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "1844": {
+        "Qwen3 retrieved captions": [
+            "A midfielder vies for the ball against another player.",
+            "A player fights for the ball during a soccer match.",
+            "A midfielder vies for the ball.",
+            "A player and a defender vie for the ball.",
+            "midfielder vies with another player",
+            "A midfielder runs into another player chasing a ball.",
+            "A defender vies for a ball with another player",
+            "A soccer player intends to steal the ball.",
+            "A player vies against a defender",
+            "The player vies against the defender."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "545": {
+        "Qwen3 retrieved captions": [
+            "A man going for a walk along the seashore.",
+            "A man takes a walk on the seashore",
+            "A man walks along the seashore.",
+            "The man is walking down the beach.",
+            "The man is walking on the beach.",
+            "A man walks near the seashore.",
+            "A man walks along the sea shore.",
+            "A man walks down the seashore.",
+            "A man is walking on the seashore.",
+            "A man walks on the seashore."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "0": {
+        "Qwen3 retrieved captions": [
+            "A girl stands in a meadow.",
+            "A woman stands in a meadow.",
+            "A girl stands in the meadow.",
+            "A woman standing in a meadow.",
+            "The girl is standing in the meadow.",
+            "A woman is standing in a meadow.",
+            "A little girl standing in a meadow",
+            "A girl sits in a meadow.",
+            "A girl stands in the grass.",
+            "A girl standing on the meadow"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "715": {
+        "Qwen3 retrieved captions": [
+            "This artist is performing with her microphone.",
+            "The artist sings into the microphone.",
+            "A woman stands in front of a microphone.",
+            "A woman in sunglasses touching her own hair.",
+            "The artist performed by singing into the microphone.",
+            "An artist sings into a microphone.",
+            "The singer arrives at her premiere.",
+            "A person singing into a microphone.",
+            "A female actor is posing as a star.",
+            "A person sings into a microphone."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "1868": {
+        "Qwen3 retrieved captions": [
+            "An artist plays the guitar at a concert.",
+            "A guitarist is playing on a stage.",
+            "A guitarist playing on stage.",
+            "The artist will play the guitar on stage.",
+            "A guitarist plays on the stage.",
+            "A person plays guitar.",
+            "The guitarist performs on stage.",
+            "Person playing guitar.",
+            "Kid is playing music on his guitar",
+            "guitarist plays on stage"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct"
+        ]
+    },
+    "3825": {
+        "Qwen3 retrieved captions": [
+            "Girls play with water.",
+            "Children are collecting water",
+            "Girls playing on the grass.",
+            "Girls are playing on the street.",
+            "Girls enjoying a beach.",
+            "Girls are pouring some water.",
+            "Children sitting next to a tree.",
+            "Girls playing in a lake.",
+            "Girls sit on the grass.",
+            "Girls sit in the meadow."
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "4453": {
+        "Qwen3 retrieved captions": [
+            "A girl sleeps on the couch.",
+            "A girl sleeps on a couch.",
+            "A girl sleeps on a sofa.",
+            "A girl sleeps on a sofa",
+            "A woman sleeps on a couch",
+            "A girl sleeping on a bed.",
+            "a girl sleeping on the sofa",
+            "A person lies on a bed and sleeps.",
+            "A girl lies under a blanket.",
+            "The girl sleeps in bed."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "1191": {
+        "Qwen3 retrieved captions": [
+            "Dogs run in the meadow.",
+            "A dog runs through a meadow",
+            "A dog runs through a meadow.",
+            "Two animals run down the meadow",
+            "Four dogs are running in a meadow.",
+            "The dog runs in a meadow.",
+            "A dog runs in a field.",
+            "A dog runs in the meadow.",
+            "A dog runs through the field.",
+            "The animals run in the meadow."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "2549": {
+        "Qwen3 retrieved captions": [
+            "People wandering in the street.",
+            "People walk in the sunshine.",
+            "People walking in the city.",
+            "Tourists are strolling on the street.",
+            "People walking in a town.",
+            "People walk at sunset.",
+            "The women walk in the city.",
+            "People walk down the street.",
+            "People walk in town.",
+            "The people are walking in the town."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "1452": {
+        "Qwen3 retrieved captions": [
+            "A women walks across the desert.",
+            "A couple walks in the desert",
+            "A woman runs of a road.",
+            "A woman standing in the middle of a dirt road.",
+            "A couple hiking in a desert.",
+            "A woman is running down a road at sunset.",
+            "A woman running down a road.",
+            "A person walks down a road towards a motorcycle.",
+            "A person runs on a road through a mountain pass.",
+            "A woman running on a hill."
+        ],
+        "human evaluation": [
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "58": {
+        "Qwen3 retrieved captions": [
+            "A dancer leaping in the air.",
+            "A woman dances on stage.",
+            "A dancer is leaping in the air.",
+            "A dancer is performing at a concert",
+            "A woman performs on stage.",
+            "A woman dancing in a dark background.",
+            "The woman hangs from a glider above the city.",
+            "A dancer is performing at an event.",
+            "Dancer performing on stage",
+            "An athlete performing on stage."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "1667": {
+        "Qwen3 retrieved captions": [
+            "Two men are running up a trail.",
+            "Two men run on a trail.",
+            "A couple jogs in the forest.",
+            "A couple jog in a forest.",
+            "People run in the forest.",
+            "A couple is jogging through a forest.",
+            "A couple hike in the forest",
+            "People running on a trail.",
+            "The man jogs through the forest.",
+            "A woman runs along a trail in the forest."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect"
+        ]
+    },
+    "9149": {
+        "Qwen3 retrieved captions": [
+            "A man jumps into the water.",
+            "A man jumping into water.",
+            "A man takes a jump into the sea.",
+            "A man jumps in the water.",
+            "A man jumps into water.",
+            "A man jumping in the river.",
+            "A boy jumping into the water.",
+            "A man dives in the water.",
+            "A man jumps into the water at sea.",
+            "A  man jump in the mountain"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "12097": {
+        "Qwen3 retrieved captions": [
+            "A man sits on a mountain.",
+            "A man sitting on a mountain.",
+            "A sun rises majestically in the mist of a mountain.",
+            "A man standing on top of a mountain.",
+            "A person is enjoying a sunset.",
+            "person enjoy a sunset",
+            "The man stood on the mountain.",
+            "A man is standing atop of the mountain.",
+            "A man admiring the view.",
+            "The man enjoys the view."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "1255": {
+        "Qwen3 retrieved captions": [
+            "This man looks like a friendly person.",
+            "A person standing with his hands on his side.",
+            "A man standing with his hand on his hip",
+            "An actor shows a look in jeans.",
+            "A person who is a man poses.",
+            "A man standing wearing a shirt",
+            "A male person takes a photo of himself smiling.",
+            "A person's look in various jeans.",
+            "Man standing with arms at side",
+            "A boy smiles to the camera."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "subject incorrect"
+        ]
+    },
+    "221": {
+        "Qwen3 retrieved captions": [
+            "A woman enjoys the beach.",
+            "A woman is enjoying the beach.",
+            "A girl enjoys her time at the beach.",
+            "A woman enjoys time at the beach.",
+            "The woman enjoys the beach.",
+            "A girl is enjoying the beach.",
+            "A girl enjoys the beach.",
+            "One girl enjoy in a beach.",
+            "A woman is sitting on a ball.",
+            "A person plays with a ball on the beach."
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "5238": {
+        "Qwen3 retrieved captions": [
+            "A man cooks in the kitchen.",
+            "man cook in kitchen",
+            "A man stands in a kitchen.",
+            "A man is standing in the kitchen.",
+            "A man cooks food.",
+            "A man is cooking food.",
+            "A man stands in the kitchen",
+            "A man preparing a meal.",
+            "A man is preparing food.",
+            "A man cooking meat."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "1632": {
+        "Qwen3 retrieved captions": [
+            "A dog is sitting on the beach.",
+            "A woman enjoys time at the beach.",
+            "A woman enjoys the beach.",
+            "A dog lies on the beach.",
+            "A dog is lying on the beach.",
+            "A woman is enjoying the beach.",
+            "A dog lays on a beach.",
+            "A woman and here dog sit next to a lake.",
+            "The woman enjoys the beach.",
+            "A woman sits with a dog."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "5771": {
+        "Qwen3 retrieved captions": [
+            "A man stands in front of a whiteboard.",
+            "A man stands in an office.",
+            "A man stands in an office",
+            "A businessman standing in front of a door",
+            "A business man is leaning on a desk.",
+            "A man talks in an office.",
+            "The businessman stands with his hand in his pocket.",
+            "A person stands in an office.",
+            "The person stands in the office",
+            "A man sits in front of a white background"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "10591": {
+        "Qwen3 retrieved captions": [
+            "A couple kiss in a meadow.",
+            "The couple is standing in the field kissing.",
+            "A person kisses his bride in a field",
+            "A couple kisses in the park.",
+            "A couple kiss in the park.",
+            "A couple standing in a meadow.",
+            "A couple sits in a meadow.",
+            "The couple lies in the meadow.",
+            "A couple lies in the meadow.",
+            "A couple sitting in a meadow"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "3084": {
+        "Qwen3 retrieved captions": [
+            "A child and parent is walking in the forest.",
+            "A couple hike in the forest",
+            "A father and daughter walk in the forest",
+            "The woman and her son walk along the trail.",
+            "Women trek through the forrest.",
+            "woman hike on the forest",
+            "A woman takes a hike through the forest.",
+            "Kids take a walk in the forest.",
+            "The woman hikes in the forest.",
+            "A woman hikes in a forest."
+        ],
+        "human evaluation": [
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "2384": {
+        "Qwen3 retrieved captions": [
+            "A dog rests in the grass.",
+            "A dog rests on the grass.",
+            "A dog is resting in the grass",
+            "A dog rests in the lawn.",
+            "dog rests on the grass",
+            "A dog rests on the lawn.",
+            "A dog rests on a lawn.",
+            "A dog lays in the grass.",
+            "A dog lies on the grass.",
+            "A dog rests on the field"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "2856": {
+        "Qwen3 retrieved captions": [
+            "The train will go to crystal city.",
+            "A train heading toward the city.",
+            "A train leaving the city",
+            "train runs through city",
+            "A train passed through the city.",
+            "A train runs through a city.",
+            "A train travels across the city.",
+            "A passenger travels to the train.",
+            "A train passes a city.",
+            "A train passes through a stop at a city."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "8872": {
+        "Qwen3 retrieved captions": [
+            "A girl eats chocolate.",
+            "The girl is eating chocolate.",
+            "The girl eats chocolate.",
+            "The girl is drinking a chocolate drink.",
+            "The girl is drinking chocolate milk.",
+            "A little girl plays with a pink balloon.",
+            "A girl opening a gift.",
+            "A girl enjoys the sand",
+            "Young girl kissing her mother.",
+            "The girl opens a gift."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "2909": {
+        "Qwen3 retrieved captions": [
+            "This woman is enjoying looking out at the view.",
+            "A woman sits looking at a field.",
+            "A woman enjoying the view",
+            "A woman is admiring the sunset.",
+            "A woman sits in a meadow smelling flowers.",
+            "A woman enjoys the sunset.",
+            "A girl sits pensively in a meadow overlooking the sea.",
+            "A woman is looking at the view.",
+            "A girl looks at a flower.",
+            "A woman standing in a meadow."
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "3076": {
+        "Qwen3 retrieved captions": [
+            "Many boats are moored at the marina.",
+            "Yachts docked at a marina",
+            "A group of yachts are moored at the marina.",
+            "Boats, at a marina.",
+            "boats moored in marina",
+            "Boats moored in a quay",
+            "Boats moor in the harbor.",
+            "Boats dock at a harbor.",
+            "Boats docked at a port.",
+            "Boats are docked in a harbour"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "2042": {
+        "Qwen3 retrieved captions": [
+            "The woman sunbathes on the beach.",
+            "A woman sunbathes on the beach.",
+            "A woman enjoys time at the beach.",
+            "A person sunbathing at the beach.",
+            "A woman enjoys the beach.",
+            "A woman laying on the beach.",
+            "A woman resting on the beach.",
+            "A person enjoys the sun on the beach.",
+            "A woman rests on the beach.",
+            "A woman is laying on the beach."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "1023": {
+        "Qwen3 retrieved captions": [
+            "A goalkeeper saves a ball.",
+            "A soccer player blocks a shot and saves the goal.",
+            "The goalie defended the goal from the ball with his head.",
+            "A player saves a goal.",
+            "A soccer player saves the ball.",
+            "A player is saving a goal.",
+            "A person saves the ball from goal",
+            "The player saves a goal from being scored.",
+            "A soccer player is saving the shot.",
+            "The player saves a goal."
+        ],
+        "human evaluation": [
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "verb incorrect"
+        ]
+    },
+    "10255": {
+        "Qwen3 retrieved captions": [
+            "The silhouette of a person standing in front of a sunset.",
+            "person enjoy a sunset",
+            "A person is enjoying a sunset.",
+            "A person rests on a tree.",
+            "A person resting on a tree",
+            "A person sits in a tree.",
+            "A person sits on a treebranch.",
+            "A man sits at the lake.",
+            "A person perches on a tree.",
+            "A person is standing at sunset."
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "3745": {
+        "Qwen3 retrieved captions": [
+            "Players prepare for their next soccer session.",
+            "Soccer players warming for a game",
+            "A coach talks to his players.",
+            "A coach talks to players.",
+            "A league team prepares to play their game.",
+            "Players attend a training session.",
+            "Players stand in a circle before a soccer match.",
+            "A player discussing something with another man before playing a match.",
+            "A team huddling together before a game",
+            "The coach is talking to the team."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "666": {
+        "Qwen3 retrieved captions": [
+            "Puppies are sitting in a garden.",
+            "The dogs are sitting in the field.",
+            "The dogs sit in the field.",
+            "Dogs sit in a chair.",
+            "Dogs are sitting on the street.",
+            "Dogs are resting on the lawn.",
+            "Dogs sit in the street.",
+            "A puppy sits in the garden",
+            "Animals sit on the lawn.",
+            "A white puppy sits in a field while a tan puppy stands next to him."
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "subject incorrect"
+        ]
+    },
+    "2311": {
+        "Qwen3 retrieved captions": [
+            "A person hikes up a hill.",
+            "Two men are running up a trail.",
+            "the persron climbs the hill",
+            "A person climbs up a hill.",
+            "A man runs up a hill.",
+            "A man running up a hill.",
+            "A person climbs a hill.",
+            "A man is running up the hill.",
+            "A person hiking up a mountain.",
+            "A girl runs up a hill."
+        ],
+        "human evaluation": [
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "5770": {
+        "Qwen3 retrieved captions": [
+            "A man points his finger at the camera.",
+            "The man points his finger.",
+            "A man pointing with his hand.",
+            "man point a hand",
+            "A man sits in front of a white background",
+            "The man shows his finger.",
+            "A man shows his finger.",
+            "A man sits on a stool.",
+            "A person who is a man poses.",
+            "The man is sitting on the stool."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "12446": {
+        "Qwen3 retrieved captions": [
+            "The girl smiles in front of the pool.",
+            "A woman swims in a pool.",
+            "A woman swimming in a pool.",
+            "A woman is swimming in a pool.",
+            "A woman floating in a pool.",
+            "A girl floating in a pool.",
+            "A girl floats in a pool.",
+            "A woman floats in the pool.",
+            "The girl swims in the pool.",
+            "The woman sit near the pool is gorgeous."
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "6633": {
+        "Qwen3 retrieved captions": [
+            "A woman jumping during a sunset",
+            "A woman is jumping in the sunset.",
+            "A man is jumping at sunset.",
+            "The silhouette of a person standing in front of a sunset.",
+            "The woman jumped when she aw the sunset.",
+            "A silhouette of a person jumping on the beach.",
+            "A person is enjoying a sunset.",
+            "A man runs in front of the sunset.",
+            "A person is standing at sunset.",
+            "A man jumps across a cliff in the sunset."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "object incorrect"
+        ]
+    },
+    "10801": {
+        "Qwen3 retrieved captions": [
+            "Birds flying over a beach at sunset",
+            "The birds fly over the beach along the sunset",
+            "Seagulls flying at a beach.",
+            "They are walking on the beach at sunset.",
+            "Walking on the beach during a sunset.",
+            "On a beach dancing at sunset.",
+            "The sun sets in the sky.",
+            "The sun set in the sky.",
+            "People running on the beach at sunset.",
+            "The waves can almost reach the seagulls on shore."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "object incorrect"
+        ]
+    },
+    "10498": {
+        "Qwen3 retrieved captions": [
+            "A man jumps in the air.",
+            "a person is jumping with a white background.",
+            "A person celebrating after wining a video game.",
+            "A person leaps in the air.",
+            "A player celebrates his success as an athlete.",
+            "A person jumps in celebration at the beach.",
+            "The person jumps in the air.",
+            "A person jumping in the air",
+            "A person celebrates winning a championship.",
+            "A man is jumping in a field."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "subject incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "3139": {
+        "Qwen3 retrieved captions": [
+            "A woman lies in her bed.",
+            "A woman lies on a bed",
+            "A woman lies on a bed.",
+            "A woman lays in bed.",
+            "A woman lying on a bed.",
+            "A woman lying in the bed.",
+            "A woman lying in bed.",
+            "A woman lies in bed.",
+            "A girl is lying on the bed",
+            "A girl laying on a bed"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "4505": {
+        "Qwen3 retrieved captions": [
+            "A cat rests on the grass",
+            "A cat lies in the grass.",
+            "A cat lying on grass.",
+            "A cat lies in some grass.",
+            "The cat lies in the grass.",
+            "A cat sits in the grass.",
+            "Cat lies on the grass.",
+            "A cat is sitting on grass.",
+            "A cat sitting on grass.",
+            "A cat sits on the grass."
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "11943": {
+        "Qwen3 retrieved captions": [
+            "A person sailing on a boat",
+            "A man stands on a sail boat.",
+            "A person sails a boat.",
+            "The boat is sailing on the sea.",
+            "A man sits on a boat.",
+            "The boat is sailing in the sea.",
+            "A main sailing a boat.",
+            "boat sail a sea",
+            "A man looks at the ocean.",
+            "A fisherman sails a boat."
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "1874": {
+        "Qwen3 retrieved captions": [
+            "A mother and daughter sit in the grass.",
+            "A mother is sitting at a park with her daughter.",
+            "A mother sitting in the grass.",
+            "A mother sits in the grass.",
+            "A mother sits in the grass",
+            "A mother sits on grass.",
+            "A mother kneels with her daughter in the forest.",
+            "a mother sitting on a grass",
+            "A mother lying in the grass",
+            "A mother hugs her child."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "13498": {
+        "Qwen3 retrieved captions": [
+            "A boy sits on the couch.",
+            "A boy is sitting on the couch.",
+            "boy sit on the couch",
+            "A boy sitting with a white background",
+            "The boy is sitting on the couch.",
+            "A boy sitting in a chair.",
+            "A man sits on his couch.",
+            "A boy sits in a chair.",
+            "man sits on sofa",
+            "A boy lies on a couch."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "6606": {
+        "Qwen3 retrieved captions": [
+            "A woman is walking in the garden.",
+            "The woman is walking on the garden.",
+            "The person walks through the garden.",
+            "A girl walks in a garden.",
+            "A woman relaxes in the garden",
+            "A woman is walking in a park.",
+            "A woman walks down a path.",
+            "A woman walks along a path.",
+            "A woman walks in a park.",
+            "A woman walks in the park."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "8904": {
+        "Qwen3 retrieved captions": [
+            "A girl walks with a travel bag.",
+            "A woman stands in a doorway.",
+            "A woman opens the door.",
+            "A woman is opening a door.",
+            "A woman stands in the doorway.",
+            "A woman stands by a door.",
+            "A girl opens the door.",
+            "A girl opening a door.",
+            "woman  open a door",
+            "The woman stands in the doorway."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "6299": {
+        "Qwen3 retrieved captions": [
+            "A person helps another person climb.",
+            "A man climbs up a wall.",
+            "A person pulls another person.",
+            "A man climbs a wall.",
+            "A person is pulling another person.",
+            "A person climbs over a wall",
+            "A man climns a wall.",
+            "woman clim the wall",
+            "A woman climbs a wall.",
+            "A man is climbing to the top of a cliff."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "object incorrect"
+        ]
+    },
+    "8486": {
+        "Qwen3 retrieved captions": [
+            "A woman walks past a window in an airport.",
+            "Some people walk through an airport.",
+            "A celebrity going through the airport",
+            "The person looks like she is heading to work.",
+            "Passengers arrive for their flight.",
+            "Passengers arrive at a flight.",
+            "A person travels the city with her bags and phone.",
+            "A girl walks with a travel bag.",
+            "A girl walking on the pavement to go somewhere",
+            "A woman walks towards the camera."
+        ],
+        "human evaluation": [
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "9966": {
+        "Qwen3 retrieved captions": [
+            "A girl sits on steps near a street.",
+            "A girl is sitting on the stairs.",
+            "A woman sits on the stairs.",
+            "girl sit on the step",
+            "A woman sits on a staircase.",
+            "A woman sits on the staircase.",
+            "A woman sitting on the stairs.",
+            "The woman sits on the stairs.",
+            "A girl sitting on the pavement.",
+            "The girl sat on the stair."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "2572": {
+        "Qwen3 retrieved captions": [
+            "A woman practices yoga.",
+            "A person stretches with a yoga ball.",
+            "Woman sitting on a mat doing yoga.",
+            "One person does a yoga pose.",
+            "A woman stretching legs.",
+            "A yoga coach poses for a session",
+            "A woman stretching her arms",
+            "woman stretch on her arm",
+            "The person uses her arm to stretch.",
+            "A woman does a standing stretch on the sand."
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "2689": {
+        "Qwen3 retrieved captions": [
+            "Pictures of a person and his daughter",
+            "An actor takes his daughters and wife to the beach.",
+            "A father stands on the beach with his family.",
+            "An actor is appearance drastically changed from his movie character.",
+            "A person poses while holding two other people.",
+            "Actors holding hands behind their daughter",
+            "A songwriter arrives at a premiere with his family.",
+            "A PERSON HOLDS HIS SON",
+            "The actor poses at the afterparty.",
+            "The people's expressions are captured in photos."
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct"
+        ]
+    },
+    "5212": {
+        "Qwen3 retrieved captions": [
+            "A couple rides bicycles.",
+            "A couple sits on a bicycle.",
+            "A couple is sitting next to a bicycle.",
+            "Two people take a picture.",
+            "A person riding a bike with another person pushing from behind.",
+            "The people look like a happy pair.",
+            "This couple is running down the road.",
+            "The couple ran on the road.",
+            "A person taking a picture with their daughter",
+            "A couple riding in a car."
+        ],
+        "human evaluation": [
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "532": {
+        "Qwen3 retrieved captions": [
+            "Man sits in front of a computer",
+            "A man sitting in an office.",
+            "A man stands at his desk.",
+            "A businessman sits at a desk.",
+            "A man standing at a table on his computer.",
+            "A man is using a computer.",
+            "A man stands in an office.",
+            "A man sits at a desk.",
+            "Man sits in his office",
+            "A man uses a computer."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "3151": {
+        "Qwen3 retrieved captions": [
+            "The guitarist performs on stage.",
+            "A guitarist is playing on a stage.",
+            "A guitarist playing on stage.",
+            "A guitarist plays on the stage.",
+            "An artist plays the guitar at a concert.",
+            "guitarist plays on stage",
+            "The artist will play the guitar on stage.",
+            "The artist performs his gig at the concert.",
+            "An artist performs a gig on stage.",
+            "A musician is performing for an audience on stage"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "ncorrect"
+        ]
+    },
+    "929": {
+        "Qwen3 retrieved captions": [
+            "A girl studies in the library.",
+            "A girl is studying in the library.",
+            "A student reading at the library.",
+            "A girl studies at the library",
+            "A student reading at a library.",
+            "A girl stands in a library.",
+            "A girl studies a book.",
+            "A student sits in the library",
+            "A student learning at a library.",
+            "A person walks down a hallway."
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "3749": {
+        "Qwen3 retrieved captions": [
+            "A woman sits in a window.",
+            "A woman sits in the windowsill.",
+            "A person sitting at a window.",
+            "A person sits at a window.",
+            "A woman staring out a window.",
+            "A woman sits in a window sill.",
+            "A woman looks out a window.",
+            "A woman looks out the window.",
+            "A woman sits on a windowsill.",
+            "A girl sits at a window"
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "735": {
+        "Qwen3 retrieved captions": [
+            "The boy is standing on the field",
+            "A boy stands on grass.",
+            "A boy stands in the grass.",
+            "A boy stands at the park.",
+            "A boy stands in grass.",
+            "A boy stands in a field.",
+            "A child is walking on the field.",
+            "A child is standing in the field.",
+            "A child stands in a field.",
+            "Kid running on track near field."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "verb incorrect"
+        ]
+    },
+    "8950": {
+        "Qwen3 retrieved captions": [
+            "A woman is washing her hair.",
+            "A woman washes hair.",
+            "The woman is going to wash her hair.",
+            "The girl washes her hair.",
+            "A girl having her hair washed.",
+            "A woman washing her face",
+            "A woman pours water on herself.",
+            "A woman spraying herself with water",
+            "A woman enjoying the rain",
+            "The woman is brushing her hair."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "object incorrect",
+            "verb incorrect"
+        ]
+    },
+    "811": {
+        "Qwen3 retrieved captions": [
+            "An old man stands in the park",
+            "The man is taking a walk in the park.",
+            "A man walks in the park.",
+            "The father walks in the park.",
+            "A man walks alone on a path in the park.",
+            "A man is walking in the park.",
+            "A father walks in a park.",
+            "A man goes for a walk on a path.",
+            "A man goes for a walk in a meadow.",
+            "The man walked along the footpath."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "3066": {
+        "Qwen3 retrieved captions": [
+            "The players and supporters celebrate together.",
+            "Fans celebrate as the players huddle together after the win.",
+            "Players are celebrating with their team",
+            "Players celebrate as a team.",
+            "Players celebrate with the crowd.",
+            "Footballers celebrating with other players.",
+            "Soccer athletes are celebrating a postseason run.",
+            "Players celebrate before a crowd.",
+            "Players celebrating on a soccer pitch",
+            "Several players celebrate being a footballer."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "303": {
+        "Qwen3 retrieved captions": [
+            "A woman sits in a coffee shop.",
+            "A woman sits on the terrace.",
+            "A woman sitting on a terrace",
+            "Woman sitting on a terrace",
+            "Woman sits on terrace.",
+            "A woman sitting in a terrace.",
+            "A woman sits in the city.",
+            "A woman sits on a  terrace.",
+            "A woman sits by the street.",
+            "A woman sits on a balcony."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "792": {
+        "Qwen3 retrieved captions": [
+            "A player fights for the ball during a soccer match.",
+            "People are playing soccer.",
+            "soccer players play",
+            "Soccer players using a ball",
+            "Soccer players run during a training session.",
+            "People Playing Soccer",
+            "The player passes the ball in the soccer match.",
+            "The midfielder runs with the soccer ball.",
+            "A person completes against other soccer players.",
+            "A soccer player plays soccer."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "3390": {
+        "Qwen3 retrieved captions": [
+            "A man walks through the forest.",
+            "A man walking in a forest.",
+            "A man hikes through the forest.",
+            "A man walks through the forrest.",
+            "A man hikes in a forest.",
+            "boy walking in forest",
+            "A man hikes in the forest.",
+            "A person walks in a forest.",
+            "A boy walking in a forest.",
+            "A boy walks in the forest."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "2989": {
+        "Qwen3 retrieved captions": [
+            "A boat rests on the shore.",
+            "A boat sits off the moor by the water.",
+            "The boat is moored in the still waters.",
+            "A boat sits washed up on shore.",
+            "A boat is moored in a river.",
+            "A boat is moored in an estuary.",
+            "A boat floats on a river.",
+            "Boat floats on a pond.",
+            "A boat moors in a canal.",
+            "A boat is moored at the river."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "10959": {
+        "Qwen3 retrieved captions": [
+            "A man stands on a sail boat.",
+            "A person sailing on a boat",
+            "A person sails a boat.",
+            "A main sailing a boat.",
+            "boat sail a sea",
+            "A fisherman sails a boat.",
+            "The boat is sailing on the sea.",
+            "The boat is sailing in the sea.",
+            "The boat sailed on open water.",
+            "The boat sailed the sea"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "5092": {
+        "Qwen3 retrieved captions": [
+            "A man walking with a camera",
+            "A boy walking on a train track",
+            "A man walking on a trail",
+            "A girl walking on the rails.",
+            "A man walks with the sun in the background.",
+            "A man hiking on the edge of a rock",
+            "A girl walks on a train rail.",
+            "The man walked at sunset.",
+            "A man walks at sunset.",
+            "A man walks along a mountain path."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "subject incorrect",
+            "correct",
+            "correct",
+            "object incorrect"
+        ]
+    },
+    "11829": {
+        "Qwen3 retrieved captions": [
+            "A person stands high in the tree.",
+            "A man is climbing a tree.",
+            "A man climbs a tree.",
+            "the person climbs in the tree",
+            "A person is perched in a tree.",
+            "A person perches on a tree.",
+            "Two people saw down a tree.",
+            "A person is going to hang from a tree.",
+            "A person stands in a forest",
+            "A boy climbs in a tree."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "8": {
+        "Qwen3 retrieved captions": [
+            "The girl by the tree looks sad.",
+            "The girl sits in the grass near the tree.",
+            "A girl sits against a tree.",
+            "A child sits under a tree.",
+            "An adorable girl stands near a fence with her teddy bear.",
+            "A little girl standing in a meadow",
+            "A girl sits in a meadow.",
+            "A girl sits in a tree.",
+            "A young girl sits on a low tree branch.",
+            "A child sits in the grass."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "1553": {
+        "Qwen3 retrieved captions": [
+            "A girl stands on a paddleboard on the lake.",
+            "A girls stands on a paddle board in a lake.",
+            "A woman paddles the boat.",
+            "A woman is paddling the boat.",
+            "A man stands on a surfboard and rows himself along a lake.",
+            "The woman paddles a boat.",
+            "A woman kayaking in a lake.",
+            "A woman is kayaking on the lake.",
+            "A woman wades on the water.",
+            "A woman standing on the lake."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "subject incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "1788": {
+        "Qwen3 retrieved captions": [
+            "A woman sits on a windowsill.",
+            "A girl sits by a window.",
+            "A woman sits in a window sill.",
+            "A woman sits in the windowsill.",
+            "A girl is sitting by the window.",
+            "A woman sits in a window.",
+            "The woman is sitting on the windowsill.",
+            "A girl sits at a window",
+            "A woman leans looking out the window.",
+            "A woman staring out a window."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "1733": {
+        "Qwen3 retrieved captions": [
+            "A woman laying on her couch",
+            "A brunette woman lies comfortably on a sofa.",
+            "A woman lays on the couch.",
+            "A beautiful woman lies on a sofa",
+            "A woman lies on the sofa.",
+            "A woman is lying on the sofa.",
+            "A woman lays on a couch.",
+            "A woman lies on a sofa.",
+            "A woman laying on a couch.",
+            "A woman resting on a couch."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "103": {
+        "Qwen3 retrieved captions": [
+            "Several soldiers walk in a field.",
+            "A photographer is taking a picture of soldiers.",
+            "Army team shoot some terrorists.",
+            "The soldiers are walking down the road.",
+            "A group of soldiers carry a flag outside.",
+            "These soldiers are walking in the road.",
+            "The soldiers stand in front",
+            "Picture taken of a soldier",
+            "A soldier walks the field.",
+            "Soldiers walk down the street."
+        ],
+        "human evaluation": [
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "602": {
+        "Qwen3 retrieved captions": [
+            "The woman runs in the city.",
+            "A woman running in a street.",
+            "A woman running on the street.",
+            "A woman runs on the street.",
+            "Woman run on the street.",
+            "A woman walking in training shoes.",
+            "A woman jogs in the road.",
+            "The woman runs through the city.",
+            "The woman training as a runner.",
+            "A woman jogging on the road."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "6138": {
+        "Qwen3 retrieved captions": [
+            "A woman kayaking in a lake.",
+            "A woman is kayaking on the lake.",
+            "A person using a canoe on a lake",
+            "A person canoeing on a lake.",
+            "The woman paddles a boat.",
+            "A woman paddles the boat.",
+            "A woman is paddling the boat.",
+            "The woman kayaks across the lake.",
+            "A person canoeing down a river.",
+            "The person is kayaking in the lake."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "591": {
+        "Qwen3 retrieved captions": [
+            "Three soccer players.",
+            "Pictures of players from different teams.",
+            "A soccer player blocks a shot and saves the goal.",
+            "A soccer player is saving the shot.",
+            "A soccer player saves the ball.",
+            "Soccer athletes are celebrating a postseason run.",
+            "Book cover of a soccer player getting a goal",
+            "The soccer player hits the goal.",
+            "Soccer players want to meet and greet fans and other players.",
+            "The player shoots the ball toward the goal in the soccer match."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "subject incorrect",
+            "verb incorrect",
+            "verb incorrect",
+            "verb incorrect"
+        ]
+    },
+    "3613": {
+        "Qwen3 retrieved captions": [
+            "The crowd of people is singing.",
+            "A person is one of many singing with the crowd.",
+            "A person celebrates in a crowd.",
+            "A person sings in the crowd.",
+            "Arms are raised in the background.",
+            "People cheer at a game.",
+            "A person's fans are celebrating",
+            "a person raising hands up",
+            "The person celebrated in the crowd.",
+            "A person sing with the crowd"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "3831": {
+        "Qwen3 retrieved captions": [
+            "A woman runs on the road.",
+            "A woman is running down a road at sunset.",
+            "A woman jogging on the road.",
+            "A woman jogs in the road.",
+            "A woman jogging on a road.",
+            "Woman runs on road.",
+            "A woman is jogging on the road.",
+            "A woman running down a road.",
+            "The woman is jogging down the road.",
+            "A woman running on the street."
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "1397": {
+        "Qwen3 retrieved captions": [
+            "Three kids play ball together.",
+            "Children playing on a field.",
+            "Every player on the team is playing volleyball.",
+            "athletes bring balls to play",
+            "A kid plays in a pit of balls.",
+            "The players pose for a team picture.",
+            "The players pose for a team photo.",
+            "Players prepare for their next soccer session.",
+            "A child runs on a field with other children.",
+            "Children play in the field."
+        ],
+        "human evaluation": [
+            "object incorrect",
+            "correct",
+            "object incorrect",
+            "subject incorrect",
+            "object incorrect",
+            "subject incorrect",
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "object incorrect"
+        ]
+    },
+    "7401": {
+        "Qwen3 retrieved captions": [
+            "Woman looking at laptop",
+            "A woman is looking at her laptop.",
+            "A woman uses a laptop.",
+            "The woman looked at her laptop.",
+            "The woman uses her PC.",
+            "A woman looks at a paper and sits at a computer.",
+            "A woman uses the computer.",
+            "A woman uses a computer.",
+            "A woman holds a laptop",
+            "A woman uses a pc"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "11474": {
+        "Qwen3 retrieved captions": [
+            "A lion rests in the grass.",
+            "A lion sits in the grass.",
+            "The lion sits in the grass.",
+            "A lion lying in grass",
+            "A lion sitting on a rock on the grass.",
+            "Lions resting in the grass.",
+            "A lion sits on a rock.",
+            "A cheetah lying on the grass.",
+            "A cheetah lies in the grass.",
+            "A well-known species sits on the grass."
+        ],
+        "human evaluation": [
+            "correct",
+            "verb incorrect",
+            "verb incorrect",
+            "correct",
+            "object incorrect",
+            "correct",
+            "verb incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "verb incorrect"
+        ]
+    },
+    "2173": {
+        "Qwen3 retrieved captions": [
+            "A dog sitting in a meadow.",
+            "A dog sits in a meadow.",
+            "A dog sitting in the grass.",
+            "The dog is sitting in the lawn.",
+            "A dog sits in a meadow panting.",
+            "A dog sits in the grass.",
+            "A dog lying in a meadow.",
+            "A dog sits in a lawn.",
+            "A dog sits on the lawn.",
+            "A dog is sitting in the meadow."
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "6746": {
+        "Qwen3 retrieved captions": [
+            "A sculpture of a person walking",
+            "A sculpture of a person walking.",
+            "A person standing on a sculpture",
+            "A statue sits in front of a park.",
+            "Person running on lawn.",
+            "A person run in the city",
+            "A person running on a lawn.",
+            "A person running in the city.",
+            "An artist is showing a figure sculpture.",
+            "The person is running like an athlete"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "subject incorrect",
+            "correct",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect",
+            "subject incorrect"
+        ]
+    },
+    "2765": {
+        "Qwen3 retrieved captions": [
+            "An athlete competes for the ball.",
+            "An athlete competes for a ball.",
+            "A player keeps a ball in the air.",
+            "An athlete reaching for a ball.",
+            "A volleyball player saves the ball.",
+            "A player competes for the ball.",
+            "A player vies for a ball.",
+            "A player is defending the ball at the net.",
+            "An athlete catching a pass.",
+            "A girl is reaching to take the ball"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "12105": {
+        "Qwen3 retrieved captions": [
+            "A couple kisses in the park.",
+            "A couple are kissing under the tree.",
+            "A couple kiss in the park.",
+            "A couple kisses under the tree.",
+            "a couple cuddle in the park",
+            "A couple embraces by the tree.",
+            "A couple kissing in the street.",
+            "A couple is embracing near a tree.",
+            "A couple kisses near the street.",
+            "a couple kissing on a street"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "verb incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "correct"
+        ]
+    },
+    "2462": {
+        "Qwen3 retrieved captions": [
+            "A man jumps across a cliff in the sunset.",
+            "A man is jumping off a cliff.",
+            "The woman jumps the cliff.",
+            "A man jumping from one mountain top to another.",
+            "A person jumps towards the sky.",
+            "The man jumped across the mountain.",
+            "A silhouette of a person jumping on the beach.",
+            "A man jumping between two mountains.",
+            "A man jumps across some rocks on a mountain.",
+            "a person takes a jump"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "object incorrect",
+            "correct",
+            "correct"
+        ]
+    },
+    "3655": {
+        "Qwen3 retrieved captions": [
+            "The pianist is performing on stage.",
+            "A pianist is performing on the stage.",
+            "A pianist performs on stage.",
+            "Pianist performs on a stage.",
+            "A pianist is performing on stage.",
+            "A person plays the piano.",
+            "A person plays a piano.",
+            "A person plays piano.",
+            "A person who is a piano player plays.",
+            "Composer playing piano on stage"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    },
+    "7880": {
+        "Qwen3 retrieved captions": [
+            "A cat sits on the bed.",
+            "A cat sits on a couch.",
+            "A cat is sitting on a couch.",
+            "A cat sits on a sofa.",
+            "A cat is sitting on the sofa.",
+            "A cat is sitting on grass.",
+            "A cat sits on the grass.",
+            "A cat laying on a couch.",
+            "A cat sitting in the snow.",
+            "A cat sits on grass."
+        ],
+        "human evaluation": [
+            "correct",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "object incorrect",
+            "verb incorrect",
+            "object incorrect",
+            "object incorrect"
+        ]
+    },
+    "6913": {
+        "Qwen3 retrieved captions": [
+            "A dog lies on the grass.",
+            "A dog lays in the grass.",
+            "A dog lies in the grass.",
+            "A dog is laying on the grass.",
+            "A dog lies in grass.",
+            "The dog lies in the grass.",
+            "dog lie on the grass",
+            "The dog lies in the grass",
+            "A dog rests in the grass.",
+            "dog rests on the grass"
+        ],
+        "human evaluation": [
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct",
+            "correct"
+        ]
+    }
+}

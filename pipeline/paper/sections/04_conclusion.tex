@@ -1,0 +1,4 @@
+\section{Conclusion and Limitations}
+\label{sec:conclusion}
+
+We asked whether the ITM accuracy of a matching decision on a fine-grained benchmark tells how well it re-ranks the top-10 lists of an embedding model. It tells only the order of the decisions: the BLIP-2 and FLAVA heads have almost the same accuracy, yet one raises the judged Success@1 and the other lowers it, and a zero-shot prompted VLM re-ranks as well as a trained re-ranker. As a filter at its default threshold, a decision keeps only part of its gain, because some thresholds are strict and others lenient, which the TPR and TNR show and the accuracy hides. Under the benchmark's own annotated pairs, none of the gains is visible. A decision for re-ranking should therefore be chosen on judged retrieved pairs, used as a score rather than a filter, and reported with its TPR and TNR. Limits: one benchmark, depth 10, and one annotator, an author, for most lists.
